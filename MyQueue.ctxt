@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MyQueue
+comment1.params=a1
+comment1.target=void\ add(int)
+comment2.params=a2
+comment2.target=void\ remove(int)
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=void\ tooSmall()
+numComments=5
